@@ -85,7 +85,7 @@ This architecture not only leverages the advancements in both image processing a
 The integration of Vision Transformer (ViT) and GPT-2 for image captioning was extensively trained and evaluated using the Flickr8k dataset. Below are the summarized results reflecting the performance of our model:
 
 ### Key Metrics
-- **Vision Transformer Accuracy**: 83%
+- **Vision Transformer Accuracy**: 80%
   - This metric indicates the effectiveness of the ViT model in extracting relevant features from images, which significantly contributes to the overall performance of the caption generation.
 - **BLEU Score for Image Captioning**: 0.06
   - The BLEU score, while seemingly low, is typical in the context of complex tasks like image captioning where the diversity of possible correct captions is very high. This score reflects the linguistic accuracy of the generated captions relative to human-annotated captions.
